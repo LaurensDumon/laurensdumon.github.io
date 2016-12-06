@@ -20,6 +20,8 @@ html {
     text-align: center;
   text-transform: uppercase;
        background-image:url('https://source.unsplash.com/category/nature');
+  background-size: cover;
+  background-position: 50%;
     color: #fff;
     -webkit-background-clip: text;
 
